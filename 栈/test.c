@@ -4,7 +4,7 @@ void test()
 	Stack s;
 	int size = 0;
 	StackInit(&s);
-	StackPush(&s, 1);
+	StackPush(&s, 1);//»Î’ª
 	StackPush(&s, 2);
 	StackPush(&s, 3);
 	StackPush(&s, 4);
